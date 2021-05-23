@@ -1,4 +1,7 @@
 package Sugar;
 
-public class WhiteSugar {
+public class WhiteSugar implements SugarInteface {
+    public Integer getPrice() {
+       return 5;
+    }
 }

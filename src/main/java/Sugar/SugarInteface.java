@@ -1,4 +1,5 @@
 package Sugar;
 
-public interface Sugar {
+public interface SugarInteface {
+    public Integer getPrice();
 }
